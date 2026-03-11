@@ -1,4 +1,5 @@
 # Sizeof
+
 C gives us a way to check the size of a type or a variable: `sizeof`.
 
 You can use `sizeof` like a function (although, technically it's a unary operator, but that distinction is generally only useful for winning super important internet arguments).
